@@ -7,4 +7,3 @@
 
 dict = {"company":"tata", "model":"suv", "year":1996}
 print(dict["model"])
-print('sai')
